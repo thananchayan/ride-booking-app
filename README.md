@@ -54,3 +54,7 @@ Frontend URL:
 ```text
 http://localhost:5173
 ```
+
+## Demo Video
+
+https://drive.google.com/file/d/1jp2xhtX9yibHl3qhJsT9hS7X0PUYs1zK/view?usp=sharing
